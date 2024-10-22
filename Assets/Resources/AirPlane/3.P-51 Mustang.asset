@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 3.P-51 Mustang
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -305230273, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: A legendary World War II fighter known for its speed and firepower,
+    perfect for aerial combat missions.
+  m_scUpgrades:
+  - m_strName: High-Octane Fuel System
+    m_strDescript: Increases engine power and speed.
+    m_inCost: 5000
+  - m_strName: Armored Cockpit
+    m_strDescript: Protects the pilot in combat situations.
+    m_inCost: 4000
+  - m_strName: Enhanced Weaponry
+    m_strDescript: Upgrades the guns for increased firepower.
+    m_inCost: 5500
+  - m_strName: Advanced Targeting System
+    m_strDescript: ' Improves accuracy in dogfights.'
+    m_inCost: 4500
+  - m_strName: Reinforced Wings
+    m_strDescript: Increases durability during high-speed maneuvers.
+    m_inCost: 3800
+  - m_strName: Supercharger Upgrade
+    m_strDescript: Boosts engine performance at high altitudes.
+    m_inCost: 5200
+  - m_strName: Smoke Trail System
+    m_strDescript: Adds a custom smoke trail for aerial displays.
+    m_inCost: 2000
+  - m_strName: G-Suit Compatibility
+    m_strDescript: Allows the pilot to handle higher G-forces
+    m_inCost: 3000
+  - m_strName: High-Speed Propeller
+    m_strDescript: Increases top speed and climb rate
+    m_inCost: 4000
+  - m_strName: Bulletproof Glass
+    m_strDescript: Protects the cockpit from enemy fire.
+    m_inCost: 4200

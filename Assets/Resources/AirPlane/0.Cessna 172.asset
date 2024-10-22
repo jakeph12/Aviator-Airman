@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 0.Cessna 172
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 245452062, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: A reliable and widely used training aircraft, perfect for beginners
+    to learn the basics of flying
+  m_scUpgrades:
+  - m_strName: Enhanced Propeller
+    m_strDescript: Improves overall thrust and efficiency
+    m_inCost: 2000
+  - m_strName: Reinforced Landing Gear
+    m_strDescript: Provides greater durability during takeoff and landing.
+    m_inCost: 1500
+  - m_strName: Advanced Avionics
+    m_strDescript: Upgrades navigation systems for more accurate flight paths.
+    m_inCost: 3000
+  - m_strName: Aerodynamic Winglets
+    m_strDescript: Reduces drag, increasing flight efficiency
+    m_inCost: 2500
+  - m_strName: Fuel Efficiency Kit
+    m_strDescript: ' Decreases fuel consumption on long flights.'
+    m_inCost: 2000
+  - m_strName: Upgraded Interior
+    m_strDescript: Adds comfort and style to the cockpit
+    m_inCost: 1000
+  - m_strName: High-Visibility Lighting
+    m_strDescript: Improves visibility in low-light conditions.
+    m_inCost: 1200
+  - m_strName: Improved Flaps
+    m_strDescript: Enhances control during takeoff and landing.
+    m_inCost: 2200
+  - m_strName: Noise Reduction System
+    m_strDescript: Lowers cabin noise for a quieter flight.
+    m_inCost: 1800
+  - m_strName: Weather Radar System
+    m_strDescript: ' Increases safety by detecting adverse weather conditions'
+    m_inCost: 2800

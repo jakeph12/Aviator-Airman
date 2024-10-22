@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 4.Boeing 737
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 942309417, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: A versatile and dependable commercial jet, used for medium-haul
+    passenger flights around the world.
+  m_scUpgrades:
+  - m_strName: Extended Range Fuel Tanks
+    m_strDescript: ' Increases flight range for long-haul routes.'
+    m_inCost: 6000
+  - m_strName: Increased Passenger Capacity
+    m_strDescript: Expands seating to accommodate more passengers.
+    m_inCost: 5500
+  - m_strName: Advanced Autopilot System
+    m_strDescript: Enhances flight automation and safety.
+    m_inCost: 5000
+  - m_strName: Quiet Engine Technology
+    m_strDescript: Reduces engine noise for a quieter flight experience.
+    m_inCost: 4500
+  - m_strName: Improved Winglets
+    m_strDescript: Reduces drag and increases fuel efficiency.
+    m_inCost: 3800
+  - m_strName: Inflight Entertainment System
+    m_strDescript: Adds entertainment options for passengers
+    m_inCost: 4200
+  - m_strName: High-Altitude Performance Kit
+    m_strDescript: Improves performance at higher cruising altitudes.
+    m_inCost: 5000
+  - m_strName: Enhanced Avionics
+    m_strDescript: Upgrades the cockpit with state-of-the-art electronics.
+    m_inCost: 4800
+  - m_strName: Luxury First Class Cabin
+    m_strDescript: Provides premium seating and amenities.
+    m_inCost: 6500
+  - m_strName: Advanced Weather Radar
+    m_strDescript: Improves detection of weather patterns for safer flights.
+    m_inCost: 4000

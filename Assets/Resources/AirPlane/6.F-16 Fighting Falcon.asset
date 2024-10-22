@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 6.F-16 Fighting Falcon
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -1735237182, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: 'A highly maneuverable and powerful modern fighter jet, equipped
+    with advanced weaponry for air superiority. '
+  m_scUpgrades:
+  - m_strName: Advanced Radar System
+    m_strDescript: Enhances detection range and accuracy for enemy targets.
+    m_inCost: 7000
+  - m_strName: Afterburner Upgrade
+    m_strDescript: Boosts thrust, allowing for higher speeds during combat
+    m_inCost: 6500
+  - m_strName: Reinforced Airframe
+    m_strDescript: Increases durability during high-G maneuvers and combat situations.
+    m_inCost: 6200
+  - m_strName: Enhanced Missile Capacity
+    m_strDescript: Expands missile loadout for extended combat engagements.
+    m_inCost: 7500
+  - m_strName: Stealth Coating
+    m_strDescript: Reduces radar signature, making the aircraft harder to detect.
+    m_inCost: 7800
+  - m_strName: Advanced ECM Suite
+    m_strDescript: 'Provides superior electronic countermeasures against enemy radar '
+    m_inCost: 7300
+  - m_strName: High-G Tolerance Upgrade
+    m_strDescript: "Improves the aircraft\u2019s ability to handle extreme G-forces."
+    m_inCost: 6800
+  - m_strName: Laser-Guided Bombs
+    m_strDescript: Adds precision-guided munitions for surgical strikes.
+    m_inCost: 7200
+  - m_strName: Upgraded Cockpit Displays
+    m_strDescript: Modernizes the cockpit with advanced digital interfaces and HUD.
+    m_inCost: 6500
+  - m_strName: Enhanced Fuel Efficiency
+    m_strDescript: Reduces fuel consumption, allowing for longer missions.
+    m_inCost: 6000

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 8.SR-71 Blackbird
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 1735745621, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: The fastest reconnaissance aircraft ever built, designed for high-speed,
+    high-altitude intelligence missions.
+  m_scUpgrades:
+  - m_strName: Hypersonic Engine Boost
+    m_strDescript: Increases top speed and altitude capabilities.
+    m_inCost: 8500
+  - m_strName: Thermal Protection System
+    m_strDescript: Enhances heat resistance during high-speed flights.
+    m_inCost: 7800
+  - m_strName: Advanced Recon Cameras
+    m_strDescript: ' Improves the quality and range of aerial surveillance.'
+    m_inCost: 7200
+  - m_strName: Extended Range Fuel Tanks
+    m_strDescript: Increases flight endurance for long missions.
+    m_inCost: 6500
+  - m_strName: Stealth Paint
+    m_strDescript: ' Reduces radar signature for stealth operations.'
+    m_inCost: 7000
+  - m_strName: Autonomous Flight System
+    m_strDescript: Enables autonomous piloting for reconnaissance missions.
+    m_inCost: 7500
+  - m_strName: Supersonic Stabilizers
+    m_strDescript: Enhances stability at extreme speeds
+    m_inCost: 6800
+  - m_strName: Advanced Data Link
+    m_strDescript: Provides real-time data transmission to ground stations.
+    m_inCost: 7000
+  - m_strName: High-Altitude Oxygen Supply
+    m_strDescript: Ensures pilot safety at extreme altitudes.
+    m_inCost: 5500
+  - m_strName: Reinforced Airframe
+    m_strDescript: Increases durability under high-stress conditions.
+    m_inCost: 7300

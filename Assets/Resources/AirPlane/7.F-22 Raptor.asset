@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 7.F-22 Raptor
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -1168965842, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: ' A cutting-edge stealth fighter, designed for unmatched speed,
+    agility, and combat effectiveness'
+  m_scUpgrades:
+  - m_strName: 'Stealth Coating '
+    m_strDescript: Enhances radar invisibility for covert missions.
+    m_inCost: 8000
+  - m_strName: Afterburner Boost
+    m_strDescript: Increases thrust for higher speeds during combat.
+    m_inCost: 7500
+  - m_strName: Advanced Targeting System
+    m_strDescript: Improves precision in locking onto enemy targets.
+    m_inCost: 7200
+  - m_strName: Enhanced Maneuverability
+    m_strDescript: Upgrades control surfaces for superior agility.
+    m_inCost: 7000
+  - m_strName: Increased Weapons Capacity
+    m_strDescript: Allows for more missiles and ammunition.
+    m_inCost: 8500
+  - m_strName: Next-Gen HUD (Heads-Up Display)
+    m_strDescript: Provides real-time combat data with improved clarity.
+    m_inCost: 7800
+  - m_strName: Heat-Seeking Missiles
+    m_strDescript: Adds advanced missiles that lock onto heat signatures.
+    m_inCost: 7500
+  - m_strName: Reinforced Airframe
+    m_strDescript: ' Increases durability during high-G maneuvers.'
+    m_inCost: 7300
+  - m_strName: Adaptive Camouflage
+    m_strDescript: "Changes the aircraft\u2019s appearance to blend with surroundings."
+    m_inCost: 8200
+  - m_strName: Advanced ECM (Electronic Countermeasures)
+    m_strDescript: Disrupts enemy radar and missile systems.
+    m_inCost: 8000

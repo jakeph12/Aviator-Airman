@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 5.Boeing 747
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -91016969, guid: 0143c9e0963a3ae488d99c323c2d365d, type: 3}
+  m_strDescript: A long-haul airliner capable of carrying large numbers of passengers
+    or heavy cargo across great distances
+  m_scUpgrades:
+  - m_strName: Super Jumbo Fuel Tanks
+    m_strDescript: Increases fuel capacity for ultra-long-haul flights.
+    m_inCost: 7000
+  - m_strName: Double-Decker Seating
+    m_strDescript: Maximizes passenger capacity with an additional deck.
+    m_inCost: 6500
+  - m_strName: Next-Gen Avionics
+    m_strDescript: Modernizes the cockpit with advanced flight controls.
+    m_inCost: 6000
+  - m_strName: Ultra-Quiet Engines
+    m_strDescript: Reduces noise pollution for a more comfortable flight.
+    m_inCost: 5500
+  - m_strName: Reinforced Landing Gear
+    m_strDescript: Enhances durability for heavy landings.
+    m_inCost: 5000
+  - m_strName: VIP Suite
+    m_strDescript: Adds a luxurious private cabin for high-end passengers.
+    m_inCost: 7500
+  - m_strName: Extended Cargo Hold
+    m_strDescript: Increases cargo capacity for freight operations.
+    m_inCost: 5200
+  - m_strName: Advanced Turbulence Dampers
+    m_strDescript: Reduces the impact of turbulence for a smoother flight.
+    m_inCost: 6200
+  - m_strName: Upgraded In-Flight Entertainment System
+    m_strDescript: Provides the latest entertainment options for passengers.
+    m_inCost: 6000
+  - m_strName: Improved Aerodynamics
+    m_strDescript: Reduces drag for increased fuel efficiency and speed.
+    m_inCost: 5800
